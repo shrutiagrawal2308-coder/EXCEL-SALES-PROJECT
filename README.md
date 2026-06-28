@@ -28,3 +28,4 @@ This project analyzes the Vrinda Store sales dataset using Microsoft Excel. The 
 ## Repository Contents
 - Vrinda Store Data.xlsx
 - README.md
+- DASHBOARD.png
